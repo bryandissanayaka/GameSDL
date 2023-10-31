@@ -1,0 +1,11 @@
+#define FPS 144
+#define TARGET_FRAME_TIME (1000 / FPS)
+
+#define WINDOW_WIDTH 800
+#define WINDOW_HEIGHT 600
+
+#define PLAYER_SPEED 500.0f
+#define PLAYER_HEIGHT 100
+#define PLAYER_WIDTH 20
+
+#define MAX_BALL_SPEED 600.0f
